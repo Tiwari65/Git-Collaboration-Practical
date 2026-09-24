@@ -1,0 +1,8 @@
+GitHub Collaboration Practical 8
+
+This project demonstrates:
+1. Push
+2. Pull
+3. Fetch
+4. Pull Request
+5. Code Review
